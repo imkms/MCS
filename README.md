@@ -1,0 +1,2 @@
+# MCS
+Minecraft Server
